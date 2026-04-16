@@ -1,0 +1,111 @@
+INSUREAI — PRODUCT & PRICING GUIDE
+
+PARTNER INSURERS (30+):
+LIC, HDFC Ergo, ICICI Lombard, Star Health, Bajaj Allianz, Tata AIG, SBI Life, Max Life, New India Assurance, National Insurance, Digit, Acko, Go Digit, Niva Bupa, Care Health, Aditya Birla Health, HDFC Life, ICICI Prudential, Tata AIA
+
+=== CAR INSURANCE ===
+
+Third Party Only (mandatory):
+- Hatchback (<1000cc): Rs.2,094/year
+- Sedan (1000-1500cc): Rs.3,416/year
+- SUV (>1500cc): Rs.7,897/year
+
+Comprehensive:
+- Hatchback: Rs.4,500-8,000/year
+- Sedan: Rs.7,000-14,000/year
+- SUV: Rs.12,000-25,000/year
+- Luxury: Rs.25,000-60,000/year
+
+Add-ons: Zero Depreciation (Rs.1,500-3,000), Engine Protect (Rs.800-1,500), Roadside Assistance (Rs.500-1,000)
+Providers: HDFC Ergo, ICICI Lombard, Bajaj Allianz, Tata AIG, Digit, Acko
+
+=== BIKE / TWO-WHEELER INSURANCE ===
+
+Third Party:
+- Below 75cc: Rs.482/year
+- 75-150cc: Rs.752/year
+- 150-350cc: Rs.1,193/year
+- Above 350cc: Rs.2,323/year
+
+Comprehensive:
+- Scooter/Below 150cc: Rs.1,500-3,500/year
+- 150-350cc: Rs.2,500-5,000/year
+- Premium 350cc+: Rs.5,000-12,000/year
+
+=== HEALTH INSURANCE ===
+
+Individual Plans:
+- 3 Lakh cover: Rs.3,500-6,000/year
+- 5 Lakh: Rs.5,000-9,000/year
+- 10 Lakh: Rs.8,000-15,000/year
+- 25 Lakh: Rs.15,000-25,000/year
+- 1 Crore: Rs.25,000-50,000/year
+
+Family Floater (2 adults + 2 children):
+- 5 Lakh: Rs.12,000-18,000/year
+- 10 Lakh: Rs.18,000-28,000/year
+- 25 Lakh: Rs.25,000-42,000/year
+
+Super Top-Up: 50 Lakh with 5L deductible: Rs.4,000-7,000/year
+Critical Illness 10 Lakh: Rs.5,000-8,000/year
+
+Pre-existing conditions: most insurers cover after 2-4 year waiting period.
+Smokers: premiums 15-30% higher but coverage available.
+
+Providers: Star Health, Niva Bupa, Care Health, HDFC Ergo, ICICI Lombard, Aditya Birla Health
+
+=== LIFE INSURANCE ===
+
+Term Life:
+- 50 Lakh (age 25-30): Rs.5,000-8,000/year
+- 1 Crore (age 25-30): Rs.8,000-13,000/year
+- 1 Crore (age 30-40): Rs.12,000-22,000/year
+- 2 Crore (age 30-40): Rs.22,000-40,000/year
+
+Endowment: 10 Lakh maturity, 20-year term: Rs.45,000-60,000/year
+ULIP: Minimum Rs.25,000/year, market-linked returns
+
+Providers: LIC, HDFC Life, ICICI Prudential, SBI Life, Max Life, Tata AIA
+
+=== TRAVEL INSURANCE ===
+
+Domestic:
+- Single trip (7 days): Rs.200-500
+- Annual: Rs.1,500-3,000/year
+
+International:
+- Asia (7 days): Rs.500-1,500
+- Europe/USA (7-14 days): Rs.1,500-4,000
+- Schengen visa mandatory: Rs.2,000-3,500
+
+=== HOME INSURANCE ===
+
+- Structure only 30 Lakh: Rs.1,200-2,500/year
+- Structure + Contents 50 Lakh: Rs.2,500-5,000/year
+- Comprehensive 1 Crore: Rs.5,000-10,000/year
+
+=== DATA COLLECTION SEQUENCE ===
+
+Personal Details (ask one at a time):
+1. Full name
+2. Age / Date of birth
+3. Gender
+4. City / Location
+5. Phone number
+6. Email address
+7. Occupation / Profession
+8. Annual income range (Below 5L / 5-10L / 10-25L / 25-50L / Above 50L)
+9. Marital status
+10. Number of dependents / family members to cover
+
+Insurance Screening (ask sensitively, frame as standard process):
+11. Existing insurance policies? Which type?
+12. Pre-existing medical conditions? (diabetes, hypertension, heart conditions, asthma, thyroid)
+13. Tobacco/smoking use?
+14. Regular alcohol consumption?
+15. Hospitalization in last 4 years? If yes, reason?
+
+=== TAX BENEFITS ===
+
+Section 80C: Life insurance premiums, up to Rs.1.5 Lakh/year deduction
+Section 80D: Health insurance premiums, up to Rs.25,000/year (Rs.50,000 for senior citizens)
